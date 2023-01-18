@@ -1,0 +1,19 @@
+Git commands to create a branch 
+-------------------------------------------
+
+git branch "Branch name" 
+(to enter the branch directory) 
+git checkout "branch name" 
+	
+	            or 
+	git checkout -b "branch name"
+{this will create a branch and navigate to that branch }
+   
+add the changes and push the committed files
+ 
+these will not affect the base(main) branch.
+
+Once the changes are committed to the branch we have an option to create a pull request.  
+
+these changes if accepted will be later merged by the repo admin 
+
